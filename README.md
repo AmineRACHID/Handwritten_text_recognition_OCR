@@ -61,3 +61,10 @@ The project utilizes various libraries and frameworks, including TensorFlow, Ope
 <div>
 <img src="https://github.com/AmineRACHID/Handwritten_text_recognition_OCR/assets/127174852/f9723563-61e1-4543-9964-346ef3fa85f2">
 </div>
+
+---
+
+### 📧 Contact:
+
+If you have any questions or suggestions regarding the project, feel free to reach out to me via email or GitHub.
+Email : amine.rcd.ar@gmail.com
