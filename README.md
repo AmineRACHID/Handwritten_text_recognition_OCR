@@ -8,3 +8,8 @@
 <div>
 <img src="https://github.com/AmineRACHID/Handwritten_text_recognition_OCR/assets/127174852/4469a840-d012-4817-8476-8202eb018bc3">
 </div>
+
+## Report :
+
+English Dataset :  ![link](https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format)
+Tifinagh Dataset :  ![link](https://www.kaggle.com/datasets/benaddym/amazigh-handwritten-character-database-amhcd)
