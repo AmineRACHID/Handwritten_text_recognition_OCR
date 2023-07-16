@@ -35,31 +35,31 @@ The project utilizes various libraries and frameworks, including TensorFlow, Ope
 ## Report :
 
 <div>
-<img src="https://github.com/AmineRACHID/Handwritten_text_recognition_OCR/assets/127174852/a67a5066-b97d-4935-a059-bd4fb17dcb25">
+<img src="https://github.com/AmineRACHID/Handwritten_text_recognition_OCR/assets/127174852/6e7549ee-eaea-42a4-b0a4-97241f9037e1">
 </div>
 <div>
-<img src="https://github.com/AmineRACHID/Handwritten_text_recognition_OCR/assets/127174852/e619fc0f-dd37-47b1-b5d2-17551e50a1c2">
+<img src="https://github.com/AmineRACHID/Handwritten_text_recognition_OCR/assets/127174852/312b1064-3dd8-47b5-8320-fb3458432268">
 </div>
 <div>
-<img src="https://github.com/AmineRACHID/Handwritten_text_recognition_OCR/assets/127174852/a2c5acd8-ae64-4d60-a8d2-207027d44189">
+<img src="https://github.com/AmineRACHID/Handwritten_text_recognition_OCR/assets/127174852/ee8768d2-99b8-4626-b60c-9a43ddfddb14">
 </div>
 <div>
-<img src="https://github.com/AmineRACHID/Handwritten_text_recognition_OCR/assets/127174852/bd02734c-9f42-48a2-8ec1-f869abc75c5c">
+<img src="https://github.com/AmineRACHID/Handwritten_text_recognition_OCR/assets/127174852/c270a2ca-c793-44f2-b5e0-bc6b2849625e">
 </div>
 <div>
-<img src="https://github.com/AmineRACHID/Handwritten_text_recognition_OCR/assets/127174852/2ac03c1e-95a5-4b25-b180-44ebf81b6a81">
+<img src="https://github.com/AmineRACHID/Handwritten_text_recognition_OCR/assets/127174852/2dff3a46-f833-4c9a-b117-de985683a338">
 </div>
 <div>
-<img src="https://github.com/AmineRACHID/Handwritten_text_recognition_OCR/assets/127174852/f300c870-5562-4606-8699-839afac02430">
+<img src="https://github.com/AmineRACHID/Handwritten_text_recognition_OCR/assets/127174852/e9400ff7-4290-49a6-b532-473766ac96ef">
 </div>
 <div>
-<img src="https://github.com/AmineRACHID/Handwritten_text_recognition_OCR/assets/127174852/593a3a7c-2e88-47b7-8052-8495abc8a53a">
+<img src="https://github.com/AmineRACHID/Handwritten_text_recognition_OCR/assets/127174852/4d134cec-f3ca-474a-8b00-df05598ff493">
 </div>
 <div>
-<img src="https://github.com/AmineRACHID/Handwritten_text_recognition_OCR/assets/127174852/dc66f7c1-2d97-43a1-b6bf-c5480e5e6f06">
+<img src="https://github.com/AmineRACHID/Handwritten_text_recognition_OCR/assets/127174852/bcdeaa5b-650e-4296-84b6-cde476eae4db">
 </div>
 <div>
-<img src="https://github.com/AmineRACHID/Handwritten_text_recognition_OCR/assets/127174852/f9723563-61e1-4543-9964-346ef3fa85f2">
+<img src="https://github.com/AmineRACHID/Handwritten_text_recognition_OCR/assets/127174852/80d55d65-ed72-4b28-b742-748a8c535609">
 </div>
 
 ---
