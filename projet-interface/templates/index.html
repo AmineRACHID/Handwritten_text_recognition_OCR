@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Projet 1</title>
+  <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Arimo" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Hind:300" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+  <style>
+    .equal-size {
+      height: 150px; /* Adjust the height as needed */
+      object-fit: cover;
+    }
+
+    .btn-lg {
+      padding: 0.7rem 2rem; /* Adjust the padding as needed */
+      font-size: 1.2rem; /* Adjust the font size as needed */
+    }
+    .image-input {
+      display: flex;
+      align-items: center;
+    }
+    
+    .image-input label {
+      width: 150px; /* Adjust the width as needed */
+      margin-right: 10px; /* Add some spacing between the label and the input */
+    }
+    
+    .image-input input {
+      flex: 1; /* Allow the input field to expand and fill the remaining space */
+    }
+  </style>
+</head>
+<body>
+  <div class="container mt-5">
+    <div class="row">
+      <div class="col-md-6 offset-md-3">
+        <br><br><br><br>
+        <form action="/upload" method="post" enctype="multipart/form-data">
+        <label class="mr-3">
+          <input type="radio" name="option" value="Tifinagh" {% if selected_option == 'Tifinagh' %}checked{% endif %}>
+          Tifinagh
+        </label>
+        <label>
+          <input type="radio" name="option" value="English" {% if selected_option == 'English' %}checked{% endif %}>
+          English
+        </label>
+      <br><br>
+        <form action="/upload" method="post" enctype="multipart/form-data">
+          <div class="form-group">
+            <div class="image-input">
+              <label for="file">Add Image :</label>
+              <input type="file" id="file" name="file" accept=".jpg, .jpeg, .png" class="form-control-file">
+            </div>
+          </div>
+          <br>
+          <div class="text-center">
+            <input type="submit" value="Upload" class="btn btn-light btn-lg">
+          </div>
+        </form>
+        <br><br>
+        {% if text %}
+        <div class="row">
+          <div class="col-md-6">
+            <p>Recognized Text:</p>
+            <textarea style="height: 110px;" readonly class="form-control">{{ text }}</textarea>
+          </div>
+          <div class="col-md-6">
+            {% if filename %}
+            <p>Uploaded Image:</p>
+            <img src="{{ url_for('static', filename=filename) }}" alt="Uploaded Image" class="img-fluid">
+            {% endif %}
+          </div>
+        </div>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.3/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
