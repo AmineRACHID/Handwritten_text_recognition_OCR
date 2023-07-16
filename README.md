@@ -67,4 +67,5 @@ The project utilizes various libraries and frameworks, including TensorFlow, Ope
 ### 📧 Contact:
 
 If you have any questions or suggestions regarding the project, feel free to reach out to me via email or GitHub.
+
 Email : amine.rcd.ar@gmail.com
