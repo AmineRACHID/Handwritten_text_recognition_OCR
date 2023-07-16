@@ -31,3 +31,18 @@ Tifinagh Dataset link :  [AMHCD](https://www.kaggle.com/datasets/benaddym/amazig
 <div>
 <img src="https://github.com/AmineRACHID/Handwritten_text_recognition_OCR/assets/127174852/bd02734c-9f42-48a2-8ec1-f869abc75c5c">
 </div>
+<div>
+<img src="https://github.com/AmineRACHID/Handwritten_text_recognition_OCR/assets/127174852/2ac03c1e-95a5-4b25-b180-44ebf81b6a81">
+</div>
+<div>
+<img src="https://github.com/AmineRACHID/Handwritten_text_recognition_OCR/assets/127174852/f300c870-5562-4606-8699-839afac02430">
+</div>
+<div>
+<img src="https://github.com/AmineRACHID/Handwritten_text_recognition_OCR/assets/127174852/593a3a7c-2e88-47b7-8052-8495abc8a53a">
+</div>
+<div>
+<img src="https://github.com/AmineRACHID/Handwritten_text_recognition_OCR/assets/127174852/dc66f7c1-2d97-43a1-b6bf-c5480e5e6f06">
+</div>
+<div>
+<img src="https://github.com/AmineRACHID/Handwritten_text_recognition_OCR/assets/127174852/f9723563-61e1-4543-9964-346ef3fa85f2">
+</div>
