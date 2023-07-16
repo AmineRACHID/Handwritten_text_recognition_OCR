@@ -19,6 +19,9 @@ Tifinagh Dataset link :  [AMHCD](https://www.kaggle.com/datasets/benaddym/amazig
 
 ## Requirements :
 
+📚 Dependencies:
+The project utilizes various libraries and frameworks, including TensorFlow, OpenCV, NumPy, and scikit-learn. Please refer to the requirements.txt file for a complete list of dependencies.
+
 ```
 > pip install flask
 > py -m venv env
