@@ -1,6 +1,6 @@
 # Handwritten_text_recognition_OCR
 
-## Demo ::
+## Demo :
 
 <div>
 <img src="https://github.com/AmineRACHID/Handwritten_text_recognition_OCR/assets/127174852/85dec9a6-a7d9-4723-8b84-266c09fe7186">
