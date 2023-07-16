@@ -21,6 +21,7 @@ Tifinagh Dataset link :  [AMHCD](https://www.kaggle.com/datasets/benaddym/amazig
 
 ```
 > pip install flask
+> py -m venv env
 > env\scripts\activate
 > pip install -r requirements.txt
 > flask run
