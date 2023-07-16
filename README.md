@@ -3,8 +3,8 @@
 ## Demo ::
 
 <div>
-<img src="https://github.com/AmineRACHID/Handwritten_text_recognition_OCR/assets/127174852/5079138a-ee62-4b4f-ae71-e580f8ab4724">
-<img src="https://github.com/AmineRACHID/Handwritten_text_recognition_OCR/assets/127174852/4469a840-d012-4817-8476-8202eb018bc3">
+<img src="https://github.com/AmineRACHID/Handwritten_text_recognition_OCR/assets/127174852/85dec9a6-a7d9-4723-8b84-266c09fe7186">
+<img src="https://github.com/AmineRACHID/Handwritten_text_recognition_OCR/assets/127174852/a9541da4-743f-4346-b115-5b553ac8037d">
 </div>
 
 ---
