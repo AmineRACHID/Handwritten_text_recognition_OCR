@@ -1,0 +1,1 @@
+# Handwritten_text_recognition_OCR
