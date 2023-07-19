@@ -9,7 +9,7 @@
 
 ---
 
-## Datasets :
+## Datasets 
 
 English Dataset link :  [az-handwritten-alphabets](https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format)
 
